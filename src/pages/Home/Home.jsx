@@ -13,7 +13,16 @@ const Home = () => {
           <input type="text" placeholder='Search crypto..' />
           <button type='submit'>Search</button>
         </form>
-      </div>   
+      </div>
+      <div className="crypto-table">
+        <div className="table-layout">
+          <p>#</p>
+          <p>Coins</p>
+          <p>Price</p>
+          <p style={{textAlign:"center"}}>24H Change</p>
+          <p className='market-cap'>Market Cap</p>
+        </div>
+      </div>
     </div>
   )
 }
