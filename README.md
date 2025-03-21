@@ -36,7 +36,7 @@ npm install
 # Start the development server
 npm start
 
-
+```
 
 📌 Usage
 Search for any cryptocurrency
