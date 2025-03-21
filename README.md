@@ -5,7 +5,7 @@ A **Cryptocurrency Price Tracker** built with **React.js** and powered by the **
 - 💰 **Real-time Crypto Prices** (Powered by CoinGecko API)  
 - 📊 **Interactive Price Charts** (Google Charts)  
 - 🔍 **Search & Filter Cryptocurrencies**  
-- 📄 **Detailed Coin Information** (Market Cap, Volume, Supply, etc.)  
+- 📄 **Detailed Coin Information** (Market Cap, Current Price, 24 Hour high, etc.)  
 - 📱 **Responsive UI** (Works on all devices)  
 
 ## 🚀 Live Demo  
