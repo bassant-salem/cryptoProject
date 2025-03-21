@@ -35,3 +35,20 @@ npm install
 
 # Start the development server
 npm start
+
+
+
+📌 Usage
+Search for any cryptocurrency
+View real-time prices and market trends
+Click on a coin to see historical data with an interactive chart
+Stay updated with the latest market insights
+🏗 Contributing
+Contributions are welcome! Feel free to submit issues or create pull requests.
+
+📜 License
+This project is licensed under the MIT License.
+
+🙌 Acknowledgments
+CoinGecko API for real-time crypto data
+Google Charts for visualizing trends
