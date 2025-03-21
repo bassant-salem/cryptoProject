@@ -48,6 +48,6 @@ npm start
 
 
 
-##🙌 Acknowledgments
+## 🙌 Acknowledgments
 - CoinGecko API for real-time crypto data
 - Google Charts for visualizing trends
