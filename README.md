@@ -46,9 +46,8 @@ npm start
 5️⃣ Stay updated with real-time market data!  
 
 
-##📜 License
-This project is licensed under the MIT License.
+
 
 ##🙌 Acknowledgments
-CoinGecko API for real-time crypto data
-Google Charts for visualizing trends
+- CoinGecko API for real-time crypto data
+- Google Charts for visualizing trends
