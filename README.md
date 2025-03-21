@@ -1,12 +1,37 @@
-# React + Vite
+## 📌 Overview  
+A **Cryptocurrency Price Tracker** built with **React.js** and powered by the **CoinGecko API**. This app displays real-time cryptocurrency prices, detailed coin information, and interactive charts using **React Google Charts**.  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## ✨ Features  
+- 💰 **Real-time Crypto Prices** (Powered by CoinGecko API)  
+- 📊 **Interactive Price Charts** (Google Charts)  
+- 🔍 **Search & Filter Cryptocurrencies**  
+- 📄 **Detailed Coin Information** (Market Cap, Volume, Supply, etc.)  
+- 📱 **Responsive UI** (Works on all devices)  
 
-Currently, two official plugins are available:
+## 🚀 Live Demo  
+🔗 [Live Project](https://crypto-project-sandy.vercel.app/)  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Screenshots  
+![Crypto Tracker Preview](https://github.com/user-attachments/assets/7b28cf8c-86f2-4a77-b732-108c2a84d70b)
+![Crypto Tracker Preview](https://github.com/user-attachments/assets/1861c328-be52-4ce4-a274-1949bcc533b5) 
 
-## Expanding the ESLint configuration
+## 🛠 Tech Stack  
+- **Frontend:** React.js (Hooks, Context API)  
+- **API:** CoinGecko API  
+- **Charts:** React Google Charts  
+- **Styling:** Tailwind CSS / CSS Modules  
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🏗 Installation  
+
+```bash
+# Clone the repository
+git clone https://github.com/bassant-salem/cryptoProject.git
+
+# Navigate into the project directory
+cd cryptoplace
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm start
