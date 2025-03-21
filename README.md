@@ -38,17 +38,17 @@ npm start
 
 ```
 
-📌 Usage
-Search for any cryptocurrency
-View real-time prices and market trends
-Click on a coin to see historical data with an interactive chart
-Stay updated with the latest market insights
-🏗 Contributing
-Contributions are welcome! Feel free to submit issues or create pull requests.
+## 📌 Usage  
+1️⃣ Open the app from the **[Live Demo](https://your-crypto-tracker.vercel.app)** or run it locally.  
+2️⃣ Search for any cryptocurrency using the search bar.  
+3️⃣ Click on a coin to view detailed information.  
+4️⃣ Check historical trends with interactive price charts.  
+5️⃣ Stay updated with real-time market data!  
 
-📜 License
+
+##📜 License
 This project is licensed under the MIT License.
 
-🙌 Acknowledgments
+##🙌 Acknowledgments
 CoinGecko API for real-time crypto data
 Google Charts for visualizing trends
